@@ -1,0 +1,8 @@
+postgresqlUsername: pollsuser
+postgresqlPassword: pollspass
+postgresqlDatabase: pollsdb
+persistence:
+  size: 1Gi
+replication:
+  enabled: true
+  numSynchronousReplicas: 1

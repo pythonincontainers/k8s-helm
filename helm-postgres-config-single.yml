@@ -1,0 +1,5 @@
+postgresqlUsername: pollsuser
+postgresqlPassword: pollspass
+postgresqlDatabase: pollsdb
+persistence:
+  size: 1Gi
